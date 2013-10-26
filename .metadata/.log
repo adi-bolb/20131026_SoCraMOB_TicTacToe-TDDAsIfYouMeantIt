@@ -1,0 +1,63 @@
+!SESSION 2013-10-26 16:24:05.819 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.infinitest.eclipse 1 0 2013-10-26 16:24:09.455
+!MESSAGE Beans loaded: [workspaceResourceFinder, infinitestCoreRegistry, javaProjectSet, eclipseWorkspace, coreFactory, visualStatusPresenter, markerClearingRunnable, coreLifecycleObserver, preferenceChangeHandler, slowTestObserver, resultCollectorBean, testResultAggregator, failureMediator, swtEventQueue, resourceLookupAdapter, slowMarkerRegistry, markerPlacer, problemMarkerRegistry, markerClearingObserver, cleanEventProcessor, classFileChangeProcessor, saveDetector, coreUpdateNotifier, infinitestActivationController, org.springframework.context.annotation.internalCommonAnnotationProcessor, org.springframework.context.annotation.internalAutowiredAnnotationProcessor, org.springframework.context.annotation.internalRequiredAnnotationProcessor, org.eclipse.core.resources.ResourcesPlugin#0, org.eclipse.debug.core.sourcelookup.containers.WorkspaceSourceContainer#0]
+!SESSION 2013-10-26 16:28:33.052 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86 -data /home/data/Projects/TicTacToe-IncrementalDesignALE
+
+!ENTRY org.infinitest.eclipse 1 0 2013-10-26 16:28:36.582
+!MESSAGE Beans loaded: [workspaceResourceFinder, infinitestCoreRegistry, javaProjectSet, eclipseWorkspace, coreFactory, visualStatusPresenter, markerClearingRunnable, coreLifecycleObserver, preferenceChangeHandler, slowTestObserver, resultCollectorBean, testResultAggregator, failureMediator, swtEventQueue, resourceLookupAdapter, slowMarkerRegistry, markerPlacer, problemMarkerRegistry, markerClearingObserver, cleanEventProcessor, classFileChangeProcessor, saveDetector, coreUpdateNotifier, infinitestActivationController, org.springframework.context.annotation.internalCommonAnnotationProcessor, org.springframework.context.annotation.internalAutowiredAnnotationProcessor, org.springframework.context.annotation.internalRequiredAnnotationProcessor, org.eclipse.core.resources.ResourcesPlugin#0, org.eclipse.debug.core.sourcelookup.containers.WorkspaceSourceContainer#0]
+
+!ENTRY org.infinitest.eclipse 1 0 2013-10-26 16:29:18.687
+!MESSAGE Filter file /home/data/Projects/TicTacToe-IncrementalDesignALE/TicTacToe/infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2013-10-26 16:29:18.903
+!MESSAGE Reloading core TicTacToe
+
+!ENTRY org.infinitest.eclipse 1 0 2013-10-26 16:29:18.909
+!MESSAGE Added core TicTacToe with classpath /home/data/Projects/TicTacToe-IncrementalDesignALE/TicTacToe/bin:/usr/share/eclipse/dropins/jdt/plugins/org.junit_4.8.2.dist/junit.jar:/usr/share/eclipse/dropins/jdt/plugins/org.hamcrest.core_1.1.0.jar:/tmp/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2013-10-26 16:29:18.911
+!MESSAGE TicTacToe Files changed: [/home/data/Projects/TicTacToe-IncrementalDesignALE/TicTacToe/bin/tests/GameTests.class, /home/data/Projects/TicTacToe-IncrementalDesignALE/TicTacToe/bin/tests/SomethingTests.class, /home/data/Projects/TicTacToe-IncrementalDesignALE/TicTacToe/bin/tictactoe/Game.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2013-10-26 16:29:19.006
+!MESSAGE TicTacToe Running tests: [tests.GameTests]
+
+!ENTRY org.infinitest.eclipse 1 0 2013-10-26 16:29:19.012
+!MESSAGE Launching test runner process with the following configuration:
+Directory: /home/data/Projects/TicTacToe-IncrementalDesignALE/TicTacToe
+Environment: {XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0, GNOME_KEYRING_CONTROL=/run/user/adi/keyring-mvdUCs, GTK_MODULES=overlay-scrollbar, LC_TELEPHONE=en_US.UTF-8, SSH_AGENT_PID=2249, TEXTDOMAINDIR=/usr/share/locale/, SESSION_MANAGER=local/laptop:@/tmp/.ICE-unix/2203,unix/laptop:/tmp/.ICE-unix/2203, LC_NUMERIC=en_US.UTF-8, GNOME_DESKTOP_SESSION_ID=this-is-deprecated, LC_NAME=en_US.UTF-8, GDMSESSION=ubuntu, IM_CONFIG_PHASE=1, XDG_SESSION_COOKIE=a23c30ad3e5d43482ccd901a0000000d-1382288048.240920-967214792, COMPIZ_CONFIG_PROFILE=ubuntu, XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/, MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path, PWD=/home/adi, LC_PAPER=en_US.UTF-8, LOGNAME=adi, GPG_AGENT_INFO=/run/user/adi/keyring-mvdUCs/gpg:0:1, LC_IDENTIFICATION=en_US.UTF-8, XAPIAN_CJK_NGRAM=1, SSH_AUTH_SOCK=/run/user/adi/keyring-mvdUCs/ssh, LD_LIBRARY_PATH=/usr/lib/jvm/java-7-openjdk-i386/jre/lib/i386/client:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/i386:, TEXTDOMAIN=im-config, SHELL=/bin/bash, LC_ADDRESS=en_US.UTF-8, DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-09pZTHkIdN,guid=935959c7584ac8ea44d61ac552640ab1, GNOME_KEYRING_PID=2192, LANGUAGE=en_US:en_GB:en, CLASSPATH=/home/data/Projects/TicTacToe-IncrementalDesignALE/TicTacToe/bin:/usr/share/eclipse/dropins/jdt/plugins/org.junit_4.8.2.dist/junit.jar:/usr/share/eclipse/dropins/jdt/plugins/org.hamcrest.core_1.1.0.jar:/tmp/infinitest.jar, XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg, XDG_CURRENT_DESKTOP=Unity, PATH=/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games, DESKTOP_SESSION=ubuntu, DISPLAY=:0, LC_MONETARY=en_US.UTF-8, UBUNTU_MENUPROXY=libappmenu.so, USER=adi, HOME=/home/adi, XAUTHORITY=/home/adi/.Xauthority, DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path, XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0, LC_MEASUREMENT=en_US.UTF-8, LC_TIME=en_US.UTF-8, XDG_RUNTIME_DIR=/run/user/adi, LANG=en_US.UTF-8}
+Command: [/usr/lib/jvm/java-7-openjdk-i386/bin/java, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 43047]
+
+!ENTRY org.infinitest.eclipse 1 0 2013-10-26 16:29:19.312
+!MESSAGE Update complete. Status PASSING
+!SESSION 2013-10-26 16:29:34.025 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2013-10-26 16:29:35.414
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.infinitest.eclipse 1 0 2013-10-26 16:29:37.663
+!MESSAGE Beans loaded: [workspaceResourceFinder, infinitestCoreRegistry, javaProjectSet, eclipseWorkspace, coreFactory, visualStatusPresenter, markerClearingRunnable, coreLifecycleObserver, preferenceChangeHandler, slowTestObserver, resultCollectorBean, testResultAggregator, failureMediator, swtEventQueue, resourceLookupAdapter, slowMarkerRegistry, markerPlacer, problemMarkerRegistry, markerClearingObserver, cleanEventProcessor, classFileChangeProcessor, saveDetector, coreUpdateNotifier, infinitestActivationController, org.springframework.context.annotation.internalCommonAnnotationProcessor, org.springframework.context.annotation.internalAutowiredAnnotationProcessor, org.springframework.context.annotation.internalRequiredAnnotationProcessor, org.eclipse.core.resources.ResourcesPlugin#0, org.eclipse.debug.core.sourcelookup.containers.WorkspaceSourceContainer#0]
+!SESSION 2013-10-26 16:30:38.068 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86 -data /home/data/Projects/20131026_SoCraMOB_TicTacToe-TDDAsIfYouMeantIt
+
+!ENTRY org.infinitest.eclipse 1 0 2013-10-26 16:30:41.734
+!MESSAGE Beans loaded: [workspaceResourceFinder, infinitestCoreRegistry, javaProjectSet, eclipseWorkspace, coreFactory, visualStatusPresenter, markerClearingRunnable, coreLifecycleObserver, preferenceChangeHandler, slowTestObserver, resultCollectorBean, testResultAggregator, failureMediator, swtEventQueue, resourceLookupAdapter, slowMarkerRegistry, markerPlacer, problemMarkerRegistry, markerClearingObserver, cleanEventProcessor, classFileChangeProcessor, saveDetector, coreUpdateNotifier, infinitestActivationController, org.springframework.context.annotation.internalCommonAnnotationProcessor, org.springframework.context.annotation.internalAutowiredAnnotationProcessor, org.springframework.context.annotation.internalRequiredAnnotationProcessor, org.eclipse.core.resources.ResourcesPlugin#0, org.eclipse.debug.core.sourcelookup.containers.WorkspaceSourceContainer#0]
